@@ -8,8 +8,11 @@ There are 2 maven projects within the directory :
 Config repo path : https://github.com/vkwjope/employee-config-repo
 
 Config server URL's (employee-config-server) :
+
 http://localhost:8888/techgeeknext-client-config/production
+
 http://localhost:8888/techgeeknext-client-config/default
+
 http://localhost:8888/techgeeknext-client-config/Development
 
 Config client URL : http://localhost:8081/message
